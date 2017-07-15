@@ -2,8 +2,6 @@
 
 First Compile and Run the **ServerRpc.java** file
 
-![ServerRpc.java]()
-
 ![ServerRpc.java](https://github.com/maniram-yadav/Java-Networking-Programs/blob/master/images/ServerRpc.png)
 ___
 ___
