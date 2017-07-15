@@ -14,7 +14,7 @@ Now , Compile and run the **UdpClient.java**
 
 ___
 ___
-**Note ** : You can send and receives messages only when both program running at the same time in different-different
+**Note** : You can send and receives messages only when both program running at the same time in different-different
 console window.
 
 Enjoy the program!
