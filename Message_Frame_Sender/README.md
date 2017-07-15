@@ -2,7 +2,7 @@
 
 
 
-First Compile and run the **SlidReceiver.java**
+First Compile and run the **SlideReceiver.java**
 
 ![SlidRreceiver.java](https://github.com/maniram-yadav/Java-Networking-Programs/blob/master/images/SlideReciever.png)
 
