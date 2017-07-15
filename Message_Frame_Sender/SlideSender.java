@@ -1,6 +1,11 @@
 import java.net.*;
 import java.io.*;
 import java.rmi.*;
+
+
+/*                          @Author : Maniram Yadav                */
+
+
 class SlideSender
 {
 public static void main(String a[])throws Exception
