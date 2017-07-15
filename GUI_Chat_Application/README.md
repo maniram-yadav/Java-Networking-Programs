@@ -14,7 +14,7 @@ Now , Compile and run the **ClientChat.java**
 
 ___
 ___
-**Note ** : You can send and receive messages only when both program running at the same time in different-different
+**Note** : You can send and receive messages only when both program running at the same time in different-different
 console window.
 
 Enjoy the program!
